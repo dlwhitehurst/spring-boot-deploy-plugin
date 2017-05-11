@@ -25,5 +25,5 @@
   -->
 
 <div>
-    Send build artifacts over SSH
+    Deploy Spring Boot JAR or WAR using SSH. Restart application using newly deployed version.
 </div>
