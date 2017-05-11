@@ -1,8 +1,6 @@
 publish-over-ssh-plugin
 =======================
 
-send artifacts to an SSH server (using SFTP) and/or execute commands over SSH
-
-For more information, visit the wiki page:
-
-https://wiki.jenkins-ci.org/display/JENKINS/Publish+Over+SSH+Plugin
+Deploy your Spring Boot JAR or WAR to a remote server, stop the currently running version, and 
+then start the newly deployed version. This plugin provides Continuous Delivery (CD) capability
+to Jenkins using Spring Boot applications.
